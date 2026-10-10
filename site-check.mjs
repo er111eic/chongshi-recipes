@@ -1,0 +1,5 @@
+import fs from 'node:fs';import path from 'node:path';
+const root=path.resolve(import.meta.dirname,'../dist');const files=[];function walk(p){for(const e of fs.readdirSync(p,{withFileTypes:true})){const f=path.join(p,e.name);e.isDirectory()?walk(f):files.push(f);}}walk(root);let errors=[];
+for(const f of files.filter(f=>f.endsWith('.html'))){const s=fs.readFileSync(f,'utf8');for(const [,url] of s.matchAll(/(?:href|src)="([^"]+)"/g)){if(/^(https?:|#|data:)/.test(url))continue;const target=path.resolve(path.dirname(f),url.split('#')[0]);if(!fs.existsSync(target))errors.push(`${f}: missing ${url}`);}if(!s.includes('lang="zh-Hant"'))errors.push('missing language '+f);}
+const data=JSON.parse(fs.readFileSync(root+'/data.json'));const ids=new Set(data.recipes.map(r=>r.slug));for(const m of data.menus)for(const id of m.recipes)if(!ids.has(id))errors.push('missing recipe '+id);
+if(errors.length){console.error(errors.join('\n'));process.exit(1);}console.log(`Checked ${files.filter(f=>f.endsWith('.html')).length} HTML pages, internal links and menu references.`);
