@@ -1,0 +1,352 @@
+[
+  {
+    "message": "M004",
+    "message_id": "bc4cd621-fbc7-402a-b761-e48069dae850",
+    "path": "assets/generated-01.png",
+    "description": "家常蔬食食譜圖鑑",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 1 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "家常蔬食食譜圖鑑.png",
+    "bytes": 2419195,
+    "sha256": "0d5ab693132c98f29acc004fb1a056afbe111d9cb6b208765dae3e605b525efc"
+  },
+  {
+    "message": "M008",
+    "message_id": "a79e4041-5079-41be-9abc-372f85a4e65a",
+    "path": "assets/generated-02.png",
+    "description": "炊事組菜單：五道蔬食料理",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 2 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "炊事組菜單：五道蔬食料理.png",
+    "bytes": 2700192,
+    "sha256": "d4f6b6a5c5dacf820d7e667d0938eb02f1c6f8ee5065031c5791e83021ebf5fb"
+  },
+  {
+    "message": "M018",
+    "message_id": "d625117f-672a-4b81-b98e-38027cc4e728",
+    "path": "assets/generated-03.png",
+    "description": "9_29 炊事組暖心菜單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 3 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "9_29 炊事組暖心菜單.png",
+    "bytes": 2660585,
+    "sha256": "58b38567ce976f53cc8999bdec7dcf0ae0cc1cea09271a064769bcce4f14c9f1"
+  },
+  {
+    "message": "M020",
+    "message_id": "24a03151-9584-4de8-9540-89b7d5159baa",
+    "path": "assets/generated-04.png",
+    "description": "9_29 蔬食採買清單 infographics",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 4 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "9_29 蔬食採買清單 infographics.png",
+    "bytes": 2233254,
+    "sha256": "a25c6fb1e95a21df0e7d360d297d82e16608275b629d61d3327c7aa54864b60a"
+  },
+  {
+    "message": "M030",
+    "message_id": "571a34f1-0f1d-4f93-a54b-3d4e400f4b8b",
+    "path": "assets/generated-05.png",
+    "description": "10_1 素食炊事組菜單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 5 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "10_1 素食炊事組菜單.png",
+    "bytes": 2634443,
+    "sha256": "33515764bb9beac0f7f8c6fd101edd10be4f936471b428111e38d1a04cc1e84a",
+    "also_referenced": [
+      "M031"
+    ]
+  },
+  {
+    "message": "M032",
+    "message_id": "3fa18d7b-298e-4824-b979-f2f5b6f74872",
+    "path": "assets/generated-06.png",
+    "description": "日式蔬食炊事組菜單海報",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 6 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "日式蔬食炊事組菜單海報.png",
+    "bytes": 2644190,
+    "sha256": "3fd3a45790c8e0d735d05a03a885e440f69dd6ed4fc5b52449184d8d8c4cdc94",
+    "also_referenced": [
+      "M033"
+    ]
+  },
+  {
+    "message": "M034",
+    "message_id": "fed2bfe8-0a5f-4d70-9f6d-86fbf7ae00e0",
+    "path": "assets/generated-07.png",
+    "description": "10_1 日式素食採買清單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 7 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "10_1 日式素食採買清單.png",
+    "bytes": 2256974,
+    "sha256": "ae3a589c9bed22af2ee1874258cc7fbc3d088169098ff0be0345168419700974"
+  },
+  {
+    "message": "M046",
+    "message_id": "6bbb6684-2a90-4e84-b710-21f8f6178339",
+    "path": "assets/generated-08.png",
+    "description": "10_6 炊事組日式素食菜單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 8 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "10_6 炊事組日式素食菜單.png",
+    "bytes": 2599301,
+    "sha256": "b1a5cdd776577b0fe11582096f9c9e887f9744f58c9d24a55eb0590ecd80ca71"
+  },
+  {
+    "message": "M048",
+    "message_id": "baf39874-8065-4b08-baf9-aabdbc3ee3e5",
+    "path": "assets/generated-09.png",
+    "description": "10_6 日式蔬食採買清單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 9 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "10_6 日式蔬食採買清單.png",
+    "bytes": 2303212,
+    "sha256": "9daf2653c86d3b693e5ccbe529025b9a5c8df221782dd224434c6dce0c408412"
+  },
+  {
+    "message": "M054",
+    "message_id": "2e7cc351-d76d-4659-939d-de3094b64e47",
+    "path": "assets/generated-10.png",
+    "description": "無五辛歐風咖哩食譜海報",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 10 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "無五辛歐風咖哩食譜海報.png",
+    "bytes": 2475529,
+    "sha256": "726c8f2b962d3bafa4421ff04048f9890fd04be0e4e3d552bc9efa9d23d8f568"
+  },
+  {
+    "message": "M062",
+    "message_id": "4754fd68-6d38-4c9b-9692-4f7cf84d6314",
+    "path": "assets/generated-11.png",
+    "description": "十月六日無五辛蔬食定食菜單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 11 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "十月六日無五辛蔬食定食菜單.png",
+    "bytes": 2727168,
+    "sha256": "76fdb4e123540076c78d8462b67b4cb8426e71f7b7b99b06d12fb22bb796f464"
+  },
+  {
+    "message": "M066",
+    "message_id": "02f5d73a-54e5-4648-98f1-1b6b04ccc312",
+    "path": "assets/generated-12.png",
+    "description": "無五辛日洋風蔬食採買清單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 12 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "無五辛日洋風蔬食採買清單.png",
+    "bytes": 2442089,
+    "sha256": "9d0d8e197641a3db02a344eafc2ecaca48f7a8ddf91cd488070c6812a2c606f8"
+  },
+  {
+    "message": "M070",
+    "message_id": "190ea210-4a6f-4f90-933d-8792aaf08aa9",
+    "path": "assets/generated-13.png",
+    "description": "無五辛蔬食定食採買清單",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 13 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "無五辛蔬食定食採買清單.png",
+    "bytes": 2480395,
+    "sha256": "50c55092fe3d99a3e32b0d354617a98083497dd493f6b6be82c59574fa7bdf98"
+  },
+  {
+    "message": "M074",
+    "message_id": "aaa8fcc0-ea0d-4a88-b08b-7f851428adeb",
+    "path": "assets/generated-14.png",
+    "description": "伯爵茶烤布蕾純素食譜海報",
+    "kind": "AI 生成海報",
+    "provenance": "對話生成圖片圖庫第 14 張；第 6 張與 M032 修正關係由上下文對應，其相同圖檔於 M033 再引用",
+    "download_filename": "伯爵茶烤布蕾純素食譜海報.png",
+    "bytes": 2372283,
+    "sha256": "678e4b6d4b2e50afcdaf7759801527e7babfabec6c9c5373bdb8fa6ef693af6e"
+  },
+  {
+    "message": "M009",
+    "message_id": "c5ef6b31-e8aa-4681-a047-caf86f6ac5fd",
+    "path": "assets/uploaded-M009-1.jpg",
+    "description": "燉飯成品／原書照片",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_06_30.jpg",
+    "bytes": 465734,
+    "sha256": "5d13b1f7f6e4f7aaeb25a9ee12c45d11b821f39e309d21187568ecc661ac8afe"
+  },
+  {
+    "message": "M009",
+    "message_id": "c5ef6b31-e8aa-4681-a047-caf86f6ac5fd",
+    "path": "assets/uploaded-M009-2.jpg",
+    "description": "燉飯原書食譜文字",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午11_52_33.jpg",
+    "bytes": 1000093,
+    "sha256": "a87800beb9e6e8dc23f9fde272369a1cc7582378c8bd572a119a6086bc763ba1"
+  },
+  {
+    "message": "M013",
+    "message_id": "630905fe-0ddf-4d18-b3a0-2aa761221aa7",
+    "path": "assets/uploaded-M013-1.jpg",
+    "description": "BBQ 原書食譜文字",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午11_52_51.jpg",
+    "bytes": 307156,
+    "sha256": "afea55be1e8ab91c3be635feca96823dbaa4f3176a8066480afa3e1144488c27"
+  },
+  {
+    "message": "M013",
+    "message_id": "630905fe-0ddf-4d18-b3a0-2aa761221aa7",
+    "path": "assets/uploaded-M013-2.jpg",
+    "description": "BBQ 成品照片",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_07_21.jpg",
+    "bytes": 588398,
+    "sha256": "60a82be73bdccd39d17eb0faf72c0b0e54db6318a1327f9e9122646adee96ebc"
+  },
+  {
+    "message": "M021",
+    "message_id": "bc8e40b9-2491-49e8-9a4e-492e013cb6d1",
+    "path": "assets/uploaded-M021-1.jpg",
+    "description": "馬鈴薯菠菜焗烤原書照片",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_09_33.jpg",
+    "bytes": 569502,
+    "sha256": "1d7ed301c67da17ee3e5fb85c31f00b6c66edc5c6489f2ded7ae4b07ba253868"
+  },
+  {
+    "message": "M021",
+    "message_id": "bc8e40b9-2491-49e8-9a4e-492e013cb6d1",
+    "path": "assets/uploaded-M021-2.jpg",
+    "description": "米粉白醬原書配方",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_09_34.jpg",
+    "bytes": 998581,
+    "sha256": "ccc051eac64c8338e813397fb0299eea08402127bb51fe34b9f6c16f62676318",
+    "also_referenced": [
+      "M035"
+    ]
+  },
+  {
+    "message": "M037",
+    "message_id": "88e14354-27d1-4289-b38b-92bc151ce7d2",
+    "path": "assets/uploaded-M037-1.jpg",
+    "description": "麵粉包裝照片",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_09_19.jpg",
+    "bytes": 283645,
+    "sha256": "4d7ef5cae376c0d8fc08a1f93a7186b4a313e37cf6a614e7b6c74f73a12807b2"
+  },
+  {
+    "message": "M039",
+    "message_id": "24f40acc-8257-485e-aef9-5cb7184db86f",
+    "path": "assets/uploaded-M039-1.jpg",
+    "description": "蕪菁燉菜原書照片",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_09_20.jpg",
+    "bytes": 619793,
+    "sha256": "08ace664c2d8001d35cd82f80f1e78b6463dff763ee10efa3dfae25b5bde6629"
+  },
+  {
+    "message": "M039",
+    "message_id": "24f40acc-8257-485e-aef9-5cb7184db86f",
+    "path": "assets/uploaded-M039-2.jpg",
+    "description": "蕪菁燉菜原書配方",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_09_21.jpg",
+    "bytes": 485732,
+    "sha256": "eb8efb8ab2af37e56c90f6652cb8215189474d74df3456e1e0ca8726d7ccf8f4"
+  },
+  {
+    "message": "M049",
+    "message_id": "eb17229a-7d77-40ae-b4f7-d1c521978dd6",
+    "path": "assets/uploaded-M049-1.jpg",
+    "description": "咖哩／多蜜醬原書第 1 張",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午11_53_10.jpg",
+    "bytes": 307725,
+    "sha256": "a5bc7c6a75a5436d0533c482e1004007fef2684c0a9f21b7af3a42e9d847cb16"
+  },
+  {
+    "message": "M049",
+    "message_id": "eb17229a-7d77-40ae-b4f7-d1c521978dd6",
+    "path": "assets/uploaded-M049-2.jpg",
+    "description": "咖哩／多蜜醬原書第 2 張",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午11_53_29.jpg",
+    "bytes": 268323,
+    "sha256": "279d39c02117f5298cb5c76660b8d0c30bd0d2ce78dc5d2da934d939f93f82cb"
+  },
+  {
+    "message": "M049",
+    "message_id": "eb17229a-7d77-40ae-b4f7-d1c521978dd6",
+    "path": "assets/uploaded-M049-3.jpg",
+    "description": "咖哩／多蜜醬原書第 3 張",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_08_21.jpg",
+    "bytes": 313296,
+    "sha256": "7401946efe1a42f253426f2a95260c83f4c8d830029fb2279bec4fc5beca0d1a"
+  },
+  {
+    "message": "M049",
+    "message_id": "eb17229a-7d77-40ae-b4f7-d1c521978dd6",
+    "path": "assets/uploaded-M049-4.jpg",
+    "description": "咖哩／多蜜醬原書第 4 張",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_08_30.jpg",
+    "bytes": 267885,
+    "sha256": "e3bf7432e076eba95cf5d4e7d29a060de0fe7f9058e5f029cbebadf35e937d5b"
+  },
+  {
+    "message": "M067",
+    "message_id": "f35ce7aa-f0c0-4ead-8eb5-774da460cce7",
+    "path": "assets/uploaded-M067-1.jpg",
+    "description": "使用者指定替換第 4、5、6 道的食譜截圖",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_10_22.jpg",
+    "bytes": 261009,
+    "sha256": "b74ee0fb484669e52d3854271a71f8dd513224d6f9e35a47a6c97151944d3a1f"
+  },
+  {
+    "message": "M071",
+    "message_id": "4bd9bc86-5aed-410a-a2f3-5244f0e6b8d4",
+    "path": "assets/uploaded-M071-1.jpg",
+    "description": "伯爵茶烤布蕾原書照片",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_10_23.jpg",
+    "bytes": 282706,
+    "sha256": "2e90308975c6aa65b332c8fe275492bfa0ce95cf132fe092befe108b6de5caf4"
+  },
+  {
+    "message": "M071",
+    "message_id": "4bd9bc86-5aed-410a-a2f3-5244f0e6b8d4",
+    "path": "assets/uploaded-M071-2.jpg",
+    "description": "玉米粉說明原書照片",
+    "kind": "上傳圖片",
+    "provenance": "由對話圖片檢視器下載並對應訊息",
+    "download_filename": "ChatGPT 圖像 2026年10月11日 下午08_10_24.jpg",
+    "bytes": 234412,
+    "sha256": "672a49542a45e5cb8b75953b94ca35a7b33b0df6b954cb6918be5807e9195779"
+  },
+  {
+    "message": "M041",
+    "message_id": "38e8fb73-9460-4e1f-bbed-3c8f5d837814",
+    "path": "assets/uploaded-M041-1.jpg",
+    "description": "再次提供米粉白醬原書照片（不同照片檔）",
+    "kind": "上傳圖片",
+    "provenance": "由 M041 圖片檢視器獨立下載；與 M035 並非相同圖檔，分別保留",
+    "download_filename": "ChatGPT 圖像 2026年10月12日 上午12_00_59.jpg",
+    "bytes": 271729,
+    "sha256": "cb667d048951d171f0ce7486ca7a286ac55a95286e6beedaf6c5caa90796a20c"
+  }
+]

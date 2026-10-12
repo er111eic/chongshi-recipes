@@ -9,8 +9,8 @@
   ],
   "status": "歷史配方",
   "summary": "金針菇切半撕開，豆包攤開撒胡椒。",
-  "source": "原對話 9/24 起逐段核對；保留後續修訂。",
-  "note": "",
+  "source": "原對話 9/24 起逐段核對；保留後續修訂。；2026-10-12依封存原文與圖片校對",
+  "note": " 【ZIP校對】依M046海報補錄調味及水量；圖內用量為歷史提案，未經試作。",
   "ingredients": [
     {
       "name": "豆包",
@@ -33,19 +33,19 @@
     {
       "name": "醬油",
       "amount": null,
-      "unit": "適量",
+      "unit": "60ml",
       "note": ""
     },
     {
       "name": "味醂",
       "amount": null,
-      "unit": "適量",
+      "unit": "60ml",
       "note": ""
     },
     {
       "name": "水",
       "amount": null,
-      "unit": "適量",
+      "unit": "100ml",
       "note": ""
     },
     {

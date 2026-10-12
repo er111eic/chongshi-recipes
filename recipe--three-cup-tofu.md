@@ -9,8 +9,8 @@
   ],
   "status": "歷史配方",
   "summary": "豆腐切厚片，兩面煎金黃取出。",
-  "source": "原對話 9/24 起逐段核對；保留後續修訂。",
-  "note": "",
+  "source": "原對話 9/24 起逐段核對；保留後續修訂。；2026-10-12依封存原文與圖片校對",
+  "note": " 【ZIP校對】依M046海報補錄調味及水量；圖內用量為歷史提案，未經試作。",
   "ingredients": [
     {
       "name": "板豆腐",
@@ -27,25 +27,25 @@
     {
       "name": "薑",
       "amount": null,
-      "unit": "適量",
+      "unit": "100g",
       "note": ""
     },
     {
       "name": "麻油",
       "amount": null,
-      "unit": "適量",
+      "unit": "60ml",
       "note": ""
     },
     {
       "name": "醬油",
       "amount": null,
-      "unit": "適量",
+      "unit": "120ml",
       "note": ""
     },
     {
       "name": "糖",
       "amount": null,
-      "unit": "適量",
+      "unit": "40g",
       "note": ""
     },
     {
