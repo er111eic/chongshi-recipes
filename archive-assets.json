@@ -348,5 +348,13 @@
     "download_filename": "ChatGPT 圖像 2026年10月12日 上午12_00_59.jpg",
     "bytes": 271729,
     "sha256": "cb667d048951d171f0ce7486ca7a286ac55a95286e6beedaf6c5caa90796a20c"
+  },
+  {
+    "message": "2026-10-13上傳",
+    "path": "assets/uploaded-five-dishes-20261013.jpg",
+    "description": "五菜一湯・約20人份原圖",
+    "kind": "使用者上傳菜單圖",
+    "bytes": 495922,
+    "sha256": "d49f0141e831915fc1720a008cfe6e4e04b24056c5d798d4ae69840528c4a5bb"
   }
 ]
