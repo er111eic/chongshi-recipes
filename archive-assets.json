@@ -356,5 +356,25 @@
     "kind": "使用者上傳菜單圖",
     "bytes": 495922,
     "sha256": "d49f0141e831915fc1720a008cfe6e4e04b24056c5d798d4ae69840528c4a5bb"
+  },
+  {
+    "message": "2026-10-19菜單",
+    "path": "assets/generated-2026-10-19-recipes.png",
+    "description": "10/19・15人份・食譜圖",
+    "kind": "AI生成圖（插畫示意）",
+    "provenance": "依使用者10/19文字菜單製作",
+    "download_filename": "10-19食譜圖.png",
+    "bytes": 2183926,
+    "sha256": "273c48830e21fa03c376680dedfcadd8239e9a756bab912ffdcbc724ba739ad0"
+  },
+  {
+    "message": "2026-10-19菜單",
+    "path": "assets/generated-2026-10-19-shopping.png",
+    "description": "10/19・15人份・採買清單圖",
+    "kind": "AI生成圖（插畫示意）",
+    "provenance": "依使用者10/19文字菜單製作",
+    "download_filename": "10-19採買清單圖.png",
+    "bytes": 2034228,
+    "sha256": "841046174f933f1769aff5acaf91b16bf66b0af7759657dc2379ccf778bfb3df"
   }
 ]
