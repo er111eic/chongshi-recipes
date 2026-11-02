@@ -35,7 +35,7 @@
     "收乾水分，將底部煎脆；每人約3顆。"
   ],
   "posters": [
-    "generated-2026-11-03-recipes.png"
+    "generated-2026-11-03-recipes-v2.png"
   ]
 }
 ---

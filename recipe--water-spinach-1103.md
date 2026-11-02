@@ -33,7 +33,7 @@
     "分批大火快炒至熟，鹽分次加入調味。"
   ],
   "posters": [
-    "generated-2026-11-03-recipes.png"
+    "generated-2026-11-03-recipes-v2.png"
   ]
 }
 ---

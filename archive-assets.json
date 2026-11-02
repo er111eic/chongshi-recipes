@@ -379,12 +379,12 @@
   },
   {
     "message": "2026-11-03菜單",
-    "path": "assets/generated-2026-11-03-recipes.png",
-    "description": "11/3 小可頌餐盤・20人份估算食譜圖",
+    "path": "assets/generated-2026-11-03-recipes-v2.png",
+    "description": "11/3 小可頌餐盤・可頌20個修正版",
     "kind": "AI生成圖（插畫示意）",
-    "provenance": "依使用者菜單與估算用量製作",
-    "download_filename": "11-03小可頌餐盤食譜圖.png",
-    "bytes": 2634009,
-    "sha256": "6d6dc6e3316a7a22efd70c43b9ad35ba46d5f30367c434e0c94717eb89634c2e"
+    "provenance": "可頌改為20個，每人1個；修正萵苣插畫",
+    "download_filename": "11-03小可頌餐盤食譜圖-v2.png",
+    "bytes": 2547692,
+    "sha256": "0dfaa40813df7497845120fadb1776d494f694798aadac15d3fc5e6aaff941f7"
   }
 ]

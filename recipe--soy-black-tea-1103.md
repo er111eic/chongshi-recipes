@@ -40,7 +40,7 @@
     "共約5L，每人約250ml；熱飲或冷飲皆可。"
   ],
   "posters": [
-    "generated-2026-11-03-recipes.png"
+    "generated-2026-11-03-recipes-v2.png"
   ]
 }
 ---

@@ -48,7 +48,7 @@
     "逐量加水，調整含配料的成品總量至約5L，再依濃度及鹹度補湯粉；每人約250ml。"
   ],
   "posters": [
-    "generated-2026-11-03-recipes.png"
+    "generated-2026-11-03-recipes-v2.png"
   ]
 }
 ---

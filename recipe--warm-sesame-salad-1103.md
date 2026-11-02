@@ -70,7 +70,7 @@
     "熟料搭配萵苣與小番茄盛盤，胡麻醬另放，每人約15ml。"
   ],
   "posters": [
-    "generated-2026-11-03-recipes.png"
+    "generated-2026-11-03-recipes-v2.png"
   ]
 }
 ---
