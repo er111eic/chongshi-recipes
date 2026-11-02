@@ -60,7 +60,7 @@
     "小可頌依包裝回烤，每人1個；蜂蜜另放，自由取用。"
   ],
   "posters": [
-    "generated-2026-11-03-recipes-v2.png"
+    "generated-2026-11-03-recipes-v3.png"
   ]
 }
 ---
