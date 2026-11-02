@@ -382,9 +382,9 @@
     "path": "assets/generated-2026-11-03-recipes-v3.png",
     "description": "11/3 小可頌餐盤・修正版",
     "kind": "AI生成圖（插畫示意）",
-    "provenance": "可頌20個、修正萵苣插畫、煎餃不標顆數",
+    "provenance": "可頌20個、煎餃不標顆數；修正兩處萵苣字形",
     "download_filename": "11-03小可頌餐盤食譜圖-v3.png",
-    "bytes": 2510347,
-    "sha256": "b20bfa4d7f06462cf0e9ad155e4c46ad06afffa20b6bcd6e593308c918d26c96"
+    "bytes": 2428807,
+    "sha256": "ee0d7405224ba55b6a219049196966a674536876335190f2293a219e2e9d4f78"
   }
 ]
